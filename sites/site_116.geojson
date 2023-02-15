@@ -1,0 +1,42 @@
+{"type": "FeatureCollection",
+"name": "edm-subareas-2022-11-24",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+ {
+
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -113.485526659447,
+            53.544132602417996
+          ],
+          [
+            -113.483168714872,
+            53.544558167658806
+          ],
+          [
+            -113.48297054554,
+            53.5441259200661
+          ],
+          [
+            -113.485321123585,
+            53.543723492596
+          ],
+          [
+            -113.485526659447,
+            53.544132602417996
+          ]
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "id": 116,
+    "study_zone": "109"
+  }}
+] 
+}
